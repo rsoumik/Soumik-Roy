@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soumik</h1>
-<h3 align="center">A passionate frontend devA Cyber-Security Enthusiast.eloper from India</h3>
-https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr
+<h3 align="center">A Cyber-Security Enthusiast</h3>
+
+<img align="right" alt="Coding" width="250" src= "https://miro.medium.com/max/750/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsoumik&label=Profile%20views&color=0e75b6&style=flat" alt="rsoumik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/soumikroy07?t=z1v-qlhvsramjtanjawqqw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/soumikroy07?t=z1v-qlhvsramjtanjawqqw&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/soumikroy07?t=z1v-qlhvsramjtanjawqqw&s=09" /></a> </p>
+
 
 - 🌱 I’m currently learning **BSc. Cyber Security**
 
