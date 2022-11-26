@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumik</h1>
 <h3 align="center">A Cyber-Security Enthusiast</h3>
 
-<img align="right" alt="Coding" width="250" src= "https://miro.medium.com/max/750/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif">
+<img align="right" alt="Coding" width="450" src= "https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761109003b1d0dbe80dddea8334ad81390811fcd6f2e&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsoumik&label=Profile%20views&color=0e75b6&style=flat" alt="rsoumik" /> </p>
